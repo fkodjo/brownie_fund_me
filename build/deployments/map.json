@@ -1,1 +1,18 @@
-{}
+{
+  "11155111": {
+    "FundMe": [
+      "0xB3375eb0c183e3Bd1cCE38e76E7cB352166C24DA",
+      "0xEfD889E8956CD202eE199037C600bA0302137258",
+      "0x6d2b6Cc0107DA42910b9203C5095235AeE0C66a2",
+      "0xF35569314A88B640Cf318C6fbC8a167a0013cB70"
+    ]
+  },
+  "5777": {
+    "FundMe": [
+      "0xB24811e123457E7431831fa8773Fb9292a7A2F6f"
+    ],
+    "MockV3Aggregator": [
+      "0x81F478B39909df2621a6c078309FdAeCfC0c2B7d"
+    ]
+  }
+}
